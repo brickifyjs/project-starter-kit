@@ -65,7 +65,9 @@ A module is a dependency or a dev dependency for core, bricks or projects that c
 It can also be npm dependency or github dependency.
 
 # WHAT IS A BRICK ?
-A brick is simply a module or a set of modules which can contains methods and namespaces.
+A brick is simply a method that save something into a global store that returns the store's id. 
+
+It can provides a set of methods comming from private of public modules attached to is namespace or others namespaces.
 
 It is just a "plugin".
 
