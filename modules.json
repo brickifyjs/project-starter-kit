@@ -1,11 +1,11 @@
 [
    {
-      'repository': 'https://github.com/bricksjs/module-bundler.git',
-      'title': 'Tiny module bundler',
-      'desc': 'Simplistic CommonJS module bundler',
-      'devDependency': true,
-      'topics': [
-        'BUNDLER'
+      "repository": "https://github.com/bricksjs/module-bundler.git",
+      "title": "Tiny module bundler",
+      "desc": "Simplistic CommonJS module bundler",
+      "devDependency": true,
+      "topics": [
+        "BUNDLER"
       ]
    }
 ]
