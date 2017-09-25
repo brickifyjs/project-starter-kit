@@ -8,9 +8,11 @@
   "scripts": {
     "test": "ospec",
     "lint": "eslint .",
-    "coverage": "istanbul cover --print both ospec"
+    "coverage": "istanbul cover --print both ospec",
+    "benchmark": "node benchmark/benchmark.js"
   },
   "devDependencies": {
+    "benchmark": "^2.1.4",
     "ospec": "^1.3.1",
     "eslint": "^3.19.0",
     "istanbul": "^0.4.5"
