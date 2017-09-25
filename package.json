@@ -1,10 +1,10 @@
 {
-  "name": "brickjs-core",
+  "name": "bricksjs-project-starter-kit",
   "version": "0.1.0",
   "description": "Main repository for creating new BrickJS modules / bricks / projects",
   "author": "Nicolas RAIBAUD",
   "license": "MIT",
-  "repository": "bricksjs/CORE",
+  "repository": "bricksjs/bricksjs-project-starter-kit",
   "scripts": {
     "test": "ospec",
     "lint": "eslint .",
@@ -15,7 +15,6 @@
     "eslint": "^3.19.0",
     "istanbul": "^0.4.5"
   },
-  "bricksjs":{
-    "list":[]
+  "bricksjs": {
   }
 }
