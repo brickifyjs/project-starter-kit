@@ -69,8 +69,6 @@ A brick is simply a method that save something into a global store that returns 
 
 It can provides a set of methods comming from private of public modules attached to is namespace or others namespaces.
 
-It is just a "plugin".
-
 # WHAT IS A PROJECT ?
 A project is composed by a set of bricks and non bricks (by the way you can convert all into a brick).
 
